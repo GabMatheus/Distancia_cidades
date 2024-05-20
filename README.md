@@ -8,3 +8,5 @@ Pode ser usado como uma solução rápida para uma empresa de transportes de car
 # Explicação:
 Foi criado um executável para computadores que não possuem python instalado usando o Pyinstaller, para modificações no código, é necessário que o usuário tenha o python instalado em sua máquina, falta criar uma interface melhor para o programa, pensarei se compensa desenvolver e em caso de atualizações publico aqui. O arquivo txt contendo todas as cidades do Brasil se encontra junto do programa, pois é necessário importar em caso de escolha da opção 2 (gerar de uma cidade para todas do Brasil), lembrando mais uma vez que o código busca através da API do Maps, com isso pode ser que falte informações de algumas cidades, enquanto pesquisa, o usuário é informado na tela do número da operação que está sendo executado e por fim o programa gera um arquivo csv no mesmo diretório.
 
+# IMPORTANTE:
+É necessário resgatar uma chave da API do maps e substituir no código onde está comentado, não forneci a minha.
