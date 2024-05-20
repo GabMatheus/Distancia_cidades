@@ -1,6 +1,6 @@
 # Distancia_cidades
 Calcula a distância entre uma cidade para todas do Brasil fornecidas pela API do Google Maps
-Desenvolvido em python e testando a funcionalidade do ChatGPT para saber se é útil para ajudar desenvolvedores sem muita experiência com programas simples, o resultado foi um sucesso, ele trás uma boa base e informa corretamente muitas bibliotecas a serem usadas e como se dá sua utilização, melhor que perder horas e horas lendo toda a documentação das API's ou da linguagem em si.
+Desenvolvido em python e testando a funcionalidade do ChatGPT para saber se é útil para ajudar desenvolvedores sem muita experiência com programas simples, o resultado foi um sucesso, ele trás uma boa base e informa corretamente muitas bibliotecas a serem usadas e como se dá sua utilização, melhor que perder horas e horas lendo toda a documentação das API's ou da linguagem em si, por exemplo, a tkinter eu não tinha conhecimento do funcionamento e ele ajudou bastante a entender o básico.
 
 # Exemplo de uso do código:
 Pode ser usado como uma solução rápida para uma empresa de transportes de cargas ou vendas de produtos colaborando com a logística para se ter noção da distância entre a cidade de origem para uma cidade de destino específica ou para todas do Brasil de uma vez só enquanto o programa executa.
