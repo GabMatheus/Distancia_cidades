@@ -7,19 +7,13 @@ Foi desenvolvido em Python e pode ser transformado em um executável para ser us
 ## Como usar
 
 1. Instale as dependências necessárias:
-    - Crie o arquivo `requirements.txt` com as bibliotecas necessárias:
       ```
       requests
       PyQt5
       unidecode
       ```
 
-    - Instale as dependências:
-      ```bash
-      pip install -r requirements.txt
-      ```
-
-2. Para gerar o executável, rode o seguinte comando:
+2. Para gerar o executável, rode o seguinte comando no diretório que os arquivos estarão:
     - `pyinstaller --onefile --add-data "cidades.db;cidades.db" ler_cid.py`
 
    Isso criará um executável na pasta `dist/`. Lembre-se de colocar o arquivo `cidades.db` junto à pasta `dist/` para que o banco de dados seja acessado corretamente.
